@@ -1,13 +1,14 @@
 A successor to Paojian's th19oldspr patch. While that patch tried restoring boss sprites only, this patch strives to cover every pixel sprite: boss sprites, player sprites, and miscellaneous sprites. We also check for new sprites that fit in Touhou 19 every time a new game comes out.
 
-Player sprites found: Reimu, Marisa, Sanae, Ran (all yet to be uploaded)
-Boss sprites found: Reimu (yet to be uploaded), Marisa (yet to be uploaded), Sanae (yet to be uploaded), Ran (yet to be uploaded), Aunn, Nazrin, Seiran, Orin, Tsukasa, Mamizou, Yachie, Saki, Suika, Yuuma (partial)
+Player sprites found: Reimu, Marisa, Sanae, Ran (all yet to be uploaded), Yuuma
+Boss sprites found: Reimu (yet to be uploaded), Marisa, Sanae (yet to be uploaded), Ran (yet to be uploaded), Aunn, Nazrin, Seiran, Orin, Tsukasa, Mamizou, Yachie, Saki, Suika, Yuuma (partial)
 Not found: Biten, Enoko, Chiyari, Hisami, Zanmu
 
 Where exactly?:
   Player sprites:
     Reimu, Marisa, Sanae: In original game
     Ran: th08
+    Yuuma: https://github.com/PickledCow/STGodot-4/blob/master/demo/prefab/player/yuuma/pl.png
   Boss sprites:
     Reimu, Marisa: th08
     Sanae, Orin: th11
