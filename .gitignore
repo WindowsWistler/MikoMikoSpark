@@ -1,0 +1,12 @@
+# ignore vs cache and build files
+.vs/
+*.user
+*.suo
+*.db
+*.pdb
+*.cache
+*.obj
+*.exe
+*.dll
+bin/
+obj/
