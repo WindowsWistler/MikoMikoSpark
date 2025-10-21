@@ -5,7 +5,7 @@
     ],
     "title": "EoSD but with the Dolls in Pseudo Paradise tracks.",
     "dependencies": [
-    "nmlgc/base_tsa",
+    "nmlgc/base_tsa"
     ]
 }
 
