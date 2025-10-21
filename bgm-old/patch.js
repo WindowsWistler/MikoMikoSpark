@@ -5,7 +5,7 @@
     ],
     "title": "Old BGM music.",
     "dependencies": [
-    "nmlgc/base_tsa",
+    "nmlgc/base_tsa"
     ]
 }
 

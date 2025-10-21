@@ -5,7 +5,7 @@
     ],
     "title": "reemplaza todo con Ran jajaja",
     "dependencies": [
-    "nmlgc/base_tsa"
+    "nmlgc/base_tsa",
 	"thpatch/lang_es"
     ]
 }
