@@ -11,7 +11,8 @@
 		"yakumoran": "reemplaza todo con Ran jajaja",
 		"pcb-old": "Touhou 7: Perfect Classic Blossom.",
 		"Retexture": "Updates the sprites to the newest versions.",
-		"stringstorm": "Replaces staff roll themes with the game-dedicated vocal songs by StringStorm."
+		"stringstorm": "Replaces staff roll themes with the game-dedicated vocal songs by StringStorm.",
+		"defo": "reosd but if it was reversed"
     },
     "servers": [
         "https://mirrors.thpatch.net/MikoMikoSpark/"
