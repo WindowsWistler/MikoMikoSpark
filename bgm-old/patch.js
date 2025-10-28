@@ -1,7 +1,7 @@
 {
     "id": "bgm-old",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/bgm-old/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/bgm-old/"
     ],
     "title": "Old BGM music.",
     "dependencies": [

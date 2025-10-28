@@ -1,7 +1,7 @@
 {
     "id": "eosd-doll",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/eosd-doll/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/eosd-doll/"
     ],
     "title": "EoSD but with the Dolls in Pseudo Paradise tracks.",
     "dependencies": [

@@ -1,7 +1,7 @@
 {
     "id": "est",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/est/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/est/"
     ],
     "title": "Touhou 6: Eastern Scarlet Teahouse.",
     "dependencies": [

@@ -1,7 +1,7 @@
 {
     "id": "stringstorm",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/stringstorm/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/stringstorm/"
     ],
     "title": "Replaces staff roll themes with the game-dedicated vocal songs by StringStorm.",
     "dependencies": [

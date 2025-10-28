@@ -1,7 +1,7 @@
 {
     "id": "defo",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/defo/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/defo/"
     ],
     "title": "reosd but if it was reversed": [
     "nmlgc/base_tsa"

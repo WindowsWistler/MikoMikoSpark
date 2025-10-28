@@ -1,7 +1,7 @@
 {
     "id": "sese",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/sese/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/sese/"
     ],
     "title": "Was Sese always in Touhou 20?",
     "dependencies": [

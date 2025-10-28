@@ -1,7 +1,7 @@
 {
     "id": "yakumoran",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/yakumoran/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/yakumoran/"
     ],
     "title": "reemplaza todo con Ran jajaja",
     "dependencies": [

@@ -1,7 +1,7 @@
 {
     "id": "pcb-old",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/pcb-old/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/pcb-old/"
     ],
     "title": "Touhou 7: Perfect Classic Blossom.",
     "dependencies": [

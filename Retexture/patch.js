@@ -1,7 +1,7 @@
 {
     "id": "Retexture",
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/Retexture/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/Retexture/"
     ],
     "title": "Updates the sprites to the newest versions.",
     "dependencies": [

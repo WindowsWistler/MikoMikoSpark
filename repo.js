@@ -15,7 +15,7 @@
 		"defo": "reosd but if it was reversed"
     },
     "servers": [
-        "https://mirrors.thpatch.net/MikoMikoSpark/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/"
     ],
     "title": "Miko Miko Spark!"
 
