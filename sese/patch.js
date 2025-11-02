@@ -1,7 +1,7 @@
 {
     "id": "sese",
     "servers": [
-        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/sese/"
+        "https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/main/sese/"
     ],
     "title": "Was Sese always in Touhou 20?",
     "dependencies": [

@@ -4,7 +4,7 @@
 	],
 	"id": "bgm-old",
 	"servers": [
-		"https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/bgm-old/"
+		"https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/main/bgm-old/"
 	],
 	"title": "Old BGM music."
 }

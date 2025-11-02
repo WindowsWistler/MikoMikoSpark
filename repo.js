@@ -15,7 +15,7 @@
 		"yakumoran": "reemplaza todo con Ran jajaja"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/master/"
+		"https://raw.githubusercontent.com/WindowsWistler/MikoMikoSpark/main/"
 	],
 	"title": "Miko Miko Spark!"
 }
