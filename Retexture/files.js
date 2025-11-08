@@ -283,7 +283,7 @@
 	"th08/data/face/marisa/face_mr01pr.png": 651090828,
 	"th08/data/face/marisa/face_mr01sp.png": 3105866431,
 	"th08/data/face/marisa/face_mr01sw.png": 2847854605,
-	"th08/data/face/reimu/face_rm00.png": 3007922401,
+	"th08/data/face/reimu/face_rm00.png": 2186385800,
 	"th08/data/face/reimu/face_rm01an.png": 2279274378,
 	"th08/data/face/reimu/face_rm01dp.png": 1763703600,
 	"th08/data/face/reimu/face_rm01hp.png": 1368988232,
