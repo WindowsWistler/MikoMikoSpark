@@ -551,7 +551,7 @@
 	"th08/data/face/yuyuko/face_yy01pr.png": null,
 	"th08/data/face/yuyuko/face_yy01sp.png": null,
 	"th08/data/face/yuyuko/face_yy01sw.png": null,
-	"th08/data/front/ename.png": 3006646362,
+	"th08/data/front/ename.png": 3140285136,
 	"th08/data/front/front.png": 1705394895,
 	"th08/data/image/loading00.png": 344698821,
 	"th08/data/image/loading00a.png": 3547195733,
