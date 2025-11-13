@@ -611,7 +611,7 @@
 	"th08/data/stgenm/stg9enm_sk.png": 590178957,
 	"th08/data/stgenm/stg9enm_yk.png": 2642220957,
 	"th08/data/stgenm/stg9enm_ym.png": 181412581,
-	"th08/data/stgenm/stg9enm_yy.png": 2502872108,
+	"th08/data/stgenm/stg9enm_yy.png": 4159251676,
 	"th08/data/text/stg1txt.png": 3376254900,
 	"th08/data/text/stg2txt.png": 2476886491,
 	"th08/data/text/stg3txt.png": 4153113065,
