@@ -1,5 +1,5 @@
 {
-	"patch.js": 931180675,
+	"patch.js": 972908857,
 	"th20/face/enemy6/ename01.png": 707738554,
 	"th20/face/enemy6/face01an.png": 2110953490,
 	"th20/face/enemy6/face01bs.png": 4241329096,
