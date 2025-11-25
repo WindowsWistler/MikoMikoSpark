@@ -164,7 +164,7 @@
 	"th07/data/image/loading2.png": 2603547357,
 	"th07/data/image/loading3.png": 2894320156,
 	"th07/data/music.jpg": 2441622415,
-	"th07/data/patch.js": 2920125385,
+	"th07/data/patch.js": null,
 	"th07/data/phantasm.jpg": 3748165941,
 	"th07/data/player00/player00.png": 2382949938,
 	"th07/data/player00/player01.png": 2172028156,
