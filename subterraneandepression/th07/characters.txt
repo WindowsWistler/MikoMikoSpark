@@ -1,0 +1,516 @@
+-------------------------------------------------------------------
+
+Flos Oculi Orientalis ~ Subterranean Depression
+
+
+Character Settings & etc
+
+
+
+
+Project Oculiflorius Leader Koishi
+2003/08/17
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There's lots of extreme spoilers here, even about the ending.
+Only look at it if you've given up on clearing it, or just don't mind that sort
+of thing.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+　　　　　　　　　　　　　Move down 10 yojana from here
+　　　　　　　　　　　　　　　　↓
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================================================================
+0. Table of Contents
+====================================================================
+1. All Character Settings
+
+
+
+
+====================================================================
+1. All Character Settings
+====================================================================
+
+○ Broken Shrine Maiden Transformed by Greed
+  Hakurei Reimu
+
+She possess the ability to mainly fly in the air.
+
+Well, she's a shrine maiden.
+Torn up by the Moonlight Descent Ceremony, she became crippled. 
+She no longer has 2 arms, just a single overworked one. How did
+she "die"? She, along with Marisa, did a suicide attack to kill 
+Yorihime.
+
+Now, she is broken, lost, and not the miko she once was.
+
+
+○ Unordinary Magician of Unhumanness
+  Kirisame Marisa
+
+Mainly she possesses the ability to use magic.
+
+A bit of an ordinary magician living in Gensokyo. She has a mania for collecting
+things.
+It looks like her mania for collecting things is getting more serious after each
+year.
+
+Her house, which she rarely invites anyone into by the way, is located in the
+forests of Gensokyo (a.k.a. Forest of Magic). It's a bit on the smallish side.
+The interior is extremely disordered, and would cause an avalanche of collected
+items if an earthquake hit.
+
+When magic items are gathered in one place they tend to interfere with each
+other, causing their powers to amplify, weaken, or in some cases even develop
+completely different powers. Due to this fact, this house may hide items that
+even Marisa herself never imagined possible.
+
+On another topic, the elixir she had been secretly developing during the winter
+ended up being too large for consumption. More improvement is required.
+
+
+
+
+○ "Genocide is Just a Game", Said Her
+  Kazami Yuka
+
+That's right, bitches. Your favourite ultimate sadistic lifeform is back. Being
+one of the surviving youkai from the MDC, she manipulated the flowers in a way
+that created the Bloomling species. Besides that, she still tries to cultivate
+the Garden of the Sun.
+
+
+
+
+○ Youkai of the Ice
+  Cirno
+
+Stage 1 midboss, a youkai of ice that likes cold places.
+Mainly she possess the ability to manipulate of cold.
+
+She didn't have any specific reason for attacking Reimu and company, so she
+attacked them just for being there.
+
+Cirno radiates chilling air from herself, whether it be summer or winter, so the
+air around her is always cold. It's cold in the spring as well of course. Autumn
+too.
+
+
+
+
+○ What Winter Left Behind
+  Letty Whiterock
+
+Stage 1 boss. A youkai of the winter season who can be found in places without
+heat. She possess the ability to manipulate cold.
+
+Letty is happiest during winter. She gets in the way of Reimu and her companions
+because they threaten to put an end to her time of greatest happiness.
+
+However, Letty and her fellow winter spirits as well as sufferers of hay fever
+know well that spring, a season of depression, comes every year. She accepts
+that fact and never attacks players seriously.
+
+When spring comes, she will disappear to unknown whereabouts.
+
+
+
+
+○ Black Cat of Bad Omens
+  Chen
+
+Stage 2 Boss, a bakeneko living in a mountain possessed as a shikigami. She
+possesses the ability to handle sorcery.
+
+Her true form is Ran's shikigami, which makes her a shikigami of a shikigami of
+a youkai. Although she's a shikigami, her normal form is not always in a form of
+a charm, she can remains in her human-like form in normal situation so it won't
+be bothersome to classify her types. Even without being in shikigami possession
+she can speak the human language and fly around, but she would merely have the
+ability to the extent of surprising people. Also, while not being possessed,
+neither her appearance nor personality changes, but she still curls up by a
+kotatsu in the winter.
+
+In shikigami form, this bakeneko-figure acquires the fearsome power of a
+wrathful god. But because her master is a shikigami as well, her power is fairly
+low.
+
+Getting touched by water dispels her shikigami possession. As a bakeneko her
+normal form also hates water, so she is always weak against water.
+
+
+
+
+○ Seven-Colored Puppeteer
+  Alice Margatroid
+
+The stage 3 boss, kinda ordinary magician.
+Mainly she possess the ability to handle magic.
+
+She is a versatile magician, that has no specific strong or weak point in any
+area. If you ask me, she is similar to Marisa, or rather I'd say a youkai
+version of Marisa.
+
+Alice has an obsession with collecting things as well, and has the habit of
+collecting magic items, especially magic books. As they both share the same
+hobby, she often clashes with Marisa so their relation is like loggerheads. Most
+recently, she is interested in collecting dolls that have a story associated
+with them.
+
+She had no evident reason to attack Reimu and company. They were chosen for the
+target of her magic because they were there. Dominating the enemy with
+overwhelming power is not fun at all for Alice, so she always sees her
+opponent's reaction and tries to fight with power that exceeds the opponent by a
+hair. Even if she loses, she doesn't show her full power.
+
+That's because she thinks it would be the end of the rope for her if she lost
+with full power. In this aspect, her personality is somewhat similar to Reimu.
+
+
+
+
+○ Fairy Herald of Spring
+  Lily White
+
+Stage 4 midboss. She's a fairy who appears when the spring is approaching.
+
+Mainly, she possesses the ability of announcing that spring has come.
+Within the game, she uses neither words nor Spell Cards.
+
+Her ability is only a little stronger than minor enemies'.
+She checked above the clouds since spring did not come no matter how much she
+waited. When she did so, spring had already arrived there. She only wanted to
+announce that spring had finally arrived above the clouds to humans in front of
+her, but to Reimu and her companions, it unfortunately appeared as a hostile
+attack to them.
+
+
+
+○ Three Poltergeist Sisters
+  Eldest Sister: Lunasa Prismriver
+  Middle Sister: Merlin Prismriver
+  Youngest Sister: Lyrica Prismriver
+
+Stage 4 boss, a musical performance group as poltergeists. Noisiness times 3.
+They have the ability to perform with instruments without hands and feet —
+times 3.
+
+The Saigyouji family enlisted the Prismriver sisters to provide music at a
+convention, promising them a flower-viewing in return. The three of them are
+always summoned to banquets and such; their music stirs things up. They're like
+phantomic versions of publicity-generating cultural icons.
+This time, the Saigyouji family is holding an extravagant flower-viewing
+festival, so they would naturally be invited.
+
+Lunasa is an honour student type who excels at everything she does. She hates
+cheating, and confronts all challenges with fairness and great strength. She
+does what she has to do but her personality is somewhat dark on the outside.
+Furthermore, her honesty makes her easy to deceive.
+She is most skilled with stringed instruments, especially violins. She usually
+prefers solo performances.
+
+Merlin is an unusual type. Her magical power is the strongest but she often
+slips up when using it.Her personality is overflowing with good cheer. When she
+picks up an interest in something, she obsesses over it like a maniac.
+She is most skilled with wind instruments. Trumpets in particular.
+
+Lyrica has a sly personality. She usually spurs her older sisters into battle
+because she doesn't like to do her own fighting. Using minimal effort for
+maximum gain is the only thing she thinks about.She knows herself well and is
+smart. She doesn't act without first thinking 3 moves ahead.
+She is very skilled with all kinds of instruments, but usually works with either
+keyboards or percussion.
+
+
+The three of them were born long ago. At that time, there was a human noble,
+Count Prismriver. The Count had four daughters, whom he cherished.
+
+However, due to an unfortunate accident, the four daughters were orphaned.
+Without any other relatives, each daughter went her own separate way. The fourth
+daughter, Layla, was unable to leave the mansion that held so many of her
+memories. Using her strongest power, she conjured poltergeists with the
+appearance of her older sisters, then vanished along with the mansion and the
+poltergeists.
+
+Time moved on, and the death of the four people from those old days came to
+pass; the poltergeists' mansion remained in Gensokyo. The three poltergeist
+sisters continue their noisy lives in that mansion to this day.
+
+The musical performances given by those three, at various places of
+announcement, a fusion of casual rhythm and classical instruments, are loved by
+the inhabitants of the cheerful Netherworld. Yet, the performance itself
+provides no additional effect, and does not heal.
+
+
+
+
+○ Ghostly Gardener
+  Konpaku Youmu
+
+A Stage 5 boss, a being of half-human and half-phantom. She's both the second
+gardener for the Saigyouji clan and the guardian of their mistress. Mainly she
+posses the ability to handle sword techniques.
+
+Youmu looks after the garden with two swords: Roukan-ken is a longer sword that
+has the power of killing ten phantoms; Hakurou-ken is a shorter one that can
+slash down the confusion of humans.
+
+
+Konpaku Youki, the former gardener, had been the one for about 300 years, but
+suddenly became a hermit after having made a very young Youmu his successor.
+Youmu's ability of swordsmanship has still been in progress, so she needs daily
+practice. Though Youmu herself has no clue where her master is, she thinks of
+her master's absence as a lesson from him.
+
+This time, following the order the mistress of Saigyouji gave her, she has
+gathered all of spring essences in Gensokyo to make Saigyou Ayakashi bloom
+fully.
+
+Here in Hakugyokurou, there are so many cherry blossoms besides Saigyou
+Ayakashi, which has never bloomed. The former gardener said,
+
+"I've seen the fully-bloomed Saigyou Ayakashi before, but this might be the last
+time."
+
+At that time, Youmu had no idea what he meant and why the mistress of Saigyouji
+gave her such an order.
+
+Youmu sweeps the garden of the Saigyouji family; it's about 200 yojanas long
+(The mistress exaggerates, of course).[12] This garden has a terrifyingly large
+amount of cherry trees, where they are attractions for residents all over the
+Netherworld. When spring comes, Youmu is very busy in sweeping.
+This year isn't the exception, too. The ghosts are really thrilled by the
+wonderful cherry trees. Everyone said, "I'm happy to be a ghost!" On the other
+hand, Youmu, the half-human saw this raving scene and half-sympathised by
+saying: "I'm half happy to be a half phantom!"
+
+Now, all she should do is wait for the blooming of Saigyou Ayakashi.
+
+
+
+
+○ Ghost Girl in the Netherworld Tower
+  Saigyouji Yuyuko
+
+Final boss, formerly the mistress of old Saigyouji clan, currently the ghost
+princess.
+Mainly she possesses the ability to manipulate death.
+
+Long ago, there was a divinely talented poet in Gensokyo. He loved nature and
+spent most of his time traveling. When he became aware that the hour of his
+death drew near, he chose to begin his eternal rest under the most beautiful
+cherry tree he could find..
+
+That cherry tree has grown even more beautiful since then, charming many people
+into resting in peace beneath its blossoms. The tree with the mortuary charm
+developed the powers of a youkai after a while.
+
+
+A thousand years have passed.
+
+In the garden of the Saigyouji clan, there exists a youkai cherry blossom with a
+story behind it; it is called the Saigyou Ayakashi. For as long as Yuyuko had
+been there, this cherry tree has never bloomed, even in spring.
+
+One day, while browsing through the library as usual, Yuyuko found an old
+record. It looked so old that it was practically ageless; within it, the
+following was written...
+
+"The girl who bears witness to death, at the time of the Saigyou Ayakashi's full
+bloom, shall be bound by mortality. So that her soul may rest in peace within
+Hakugyokurou, I will seal the cherry blossoms, and make it the barrier. My
+wish... is that she will never again reincarnate, and never again suffer
+pain..."
+
+Yuyuko had read that breaking the seal on the Saigyou Ayakashi, making it bloom
+fully, would cause a certain someone to be resurrected; she started gathering
+spring's essence out of curiosity.
+
+Basically, those present in the Netherworld are mostly spirit beings. It is for
+that reason that she wondered about the corpse lying under the Saigyou Ayakashi
+with great interest, going as far as to consider breaking the seal. Her ability
+only enables her invite people to their death. Bringing life to something
+already dead would be a first.
+
+
+Thanks to an all-out effort put forth by Youmu, the gardener, every cherry
+blossom bloomed perfectly; every cherry blossom except for the Saigyou
+Ayakashi, which still bordered on blooming. By that point, Gensokyo's spring had
+almost been completely drained.
+
+No one would have imagined that a living human, bearing a tiny drop of spring,
+would visit.
+
+A battle for that last remaining bit of spring ensued...
+
+
+
+Perhaps it was because of her carefree afterlife, or maybe the record had aged
+beyond recognition, but Yuyuko ultimately failed to realize that the girl who
+was written about in the record... was herself.
+In the beginning, Yuyuko only possessed the ability to manipulate departed
+souls. Unconsciously, that power grew stronger, that eventually she possessed
+the ability to invite others to death. Terrified by her own ability, she
+committed suicide.
+
+After becoming a ghost, she thoroughly forgot everything about the time she was
+alive, and started to enjoy being able to invoke death.
+
+The reason Yuyuko can neither reincarnate nor vanish is because of the seal on
+the Saigyou Ayakashi. Once the boundary is breached, the time that was frozen
+will continue to flow, resulting in her death again. Reviving the corpse will
+destroy Yuyuko's ghost, so it's no wonder that the near-success of the revival
+ended in inevitable failure.
+
+After all, Yuyuko is not able to manipulate anything but death.
+
+The only person who knew the whole story, Konpaku Youki, grew slowly older due
+to the nature of half-humans, and disappeared with the belief that Youmu could
+inherit the truth about Yuyuko.
+
+For all time, Yuyuko will remain as the princess of Netherworld and mistress of
+long-dead Saigyouji clan.
+
+    She shall never bear witness to the blooming of the Saigyou Ayakashi.
+
+
+
+
+○ A shikigami of a shikigami of the Gap Youkai
+  Chen
+
+Extra Stage midboss.
+While in the middle of fully recovering from the injuries of her previous
+defeat, Chen is set for a second round of combat.
+Her master is in the vicinity this time around, so her power has been
+amplified considerably. Would that power work on the human before her?
+
+
+
+
+○ Shikigami of the Youkai of Boundaries
+  Yakumo Ran
+
+Extra Boss, and Yukari's shikigami. She does Yukari's work for her while her
+master sleeps. She has the ability to mainly use shikigami.
+
+Yukari sleeps 12 hours per day and is only awake from sunset to midnight. On top
+of that, she hibernates through winter. Because of that, Ran takes care of
+Yukari's work while she's asleep.
+
+Ran has been a shikigami for quite long time, so she's more powerful than
+ordinary youkai. For that matter, she has enough power to possess her own
+shikigami. Perhaps she has already forgotten that she herself is a shikigami.
+
+Every year, when cherry blossoms are about to bloom, she visits the Netherworld
+for flower viewing. The cherry blossoms this year feels very pleasant. Just as
+she was considering that, some living humans dropped in. She watched them with
+interest for a few moments.
+
+She later heard that her shikigami had been defeated by them, so she plotted a
+little revenge.
+
+Her true form is a fox-turned youkai. Like Chen, her shape is unchanged and she
+has a well-sociable personality. Even without looking closely, it's obvious that
+she has several tails. As a matter of fact, when it matters, she has plenty of
+power ever since she uses her true form.
+
+Through all these events, her master continues to sleep.
+
+
+
+
+○ Mastermind behind the spiriting away
+  Yakumo Yukari
+
+The youkai of boundaries, who awakens at spring.
+Mainly, she possess the ability to manipulate all sorts of boundaries.
+
+She and Yuyuko have known each other for a long time, but Yukari is not a
+phantom. She lives in the remotest place in Gensokyo. Her lifestyle involves a
+lot of staring at the Hakurei Border.
+
+When humans from the outer world wander into Gensokyo, it's all thanks to
+fluctuations in the boundary caused by Yukari. There is an enchanting element
+about the phenomenon which people like to call "Spirited Away"; if it is ever
+discovered that spiriting away is not the work of gods, but the meddling of a
+youkai girl, the term will lose all of its mystique.
+
+Yukari usually doesn't act on her own, preferring instead to have Ran handle the
+details of daily life. But, since she is almost always asleep, she has no idea
+what Ran does while she sleeps.
+
+When she heard that Ran had been defeated by someone, she became mildly
+surprised before going back to sleep.
+
+After waking up from her nap, she finally noticed that spring had graced her
+place of residence. The truth is that spring had been around for the past 10
+days, but she forgot it whenever she went to bed and woke up just as surprised
+the next time.
+
+She couldn't sleep carelessly until Ran fully recovered, but she opted to sleep
+on the problem.
+
+The next time she woke up, she received a request from Yuyuko asking her to
+restore the boundary between the world of the living and the world of the dead.
+It was a ridiculous request since Yuyuko was the one who weakened it to begin
+with, so Yukari rubbed the sleep from her eyes and set out for repairs.
+
+It had been quite a while since Yukari's last visit to the Netherworld, and she
+was curious to see that it was bustling with excitement. She thought the
+Saigyouji family were more quiet, laid-back folks, but she shrugged and decided
+Yuyuko had just had a change in taste.
+
+She met the gardener, Youmu, along the way and heard about the situation. Youmu
+admitted that they seemed to be in quite a mess, but it sounded like well-earned
+punishment to Yukari.
+
+
+Everyone always seemed to be bent out of shape about that youkai cherry tree,
+and nothing else. Surely, it had drained the life out of so many humans. Yukari
+knew it was dangerous. However, she realized there was nothing she could do
+about it.
+Yukari had known Yuyuko since before her death. She also knew that it was not
+Yuyuko who was sealed by the Saigyou Ayakashi...
+
+... but that it was Yuyuko's body that was sealing the Saigyou Ayakashi.

@@ -1,0 +1,494 @@
+-------------------------------------------------------------------
+
+Touhou Youyoumu ~　Perfect Cherry Blossom
+
+
+Afterword    Shanghai Alice Correspondence vol. 3
+
+
+
+
+Team Shanghai Alice Leader ZUN
+2003/08/17
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There's lots of spoilers here, so if you haven't finished the game, read it or
+don't.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Also, the REAL spoilers are all collected in characters setting.txt.
+So, the people who read that should either have cleared the game, or not really
+care about the story.
+
+====================================================================
+0. Omake Afterword Table of Contents
+====================================================================
+
+1. Special Afterword
+2. Secret Music Comments
+3. Extra Stage Story
+
+
+====================================================================
+1. Omake Afterword
+====================================================================
+
+Nice to meet you, I'm ZUN. And for those of you I've already met, nice to not be
+meeting you, I'm ZUN. We've come now to my 7th work.
+
+PCB ... isn't a very smart game. A lot more people have started playing my
+games, so it would have been nice to make something a lot more fanservicey,
+but in the end, it's just more of the same ...
+
+	
+Even the enemies' attacks, the dizzying danmaku, the hard modes where pattern
+recognition is indispensable to capturing, the spellcards that don't seem
+completable without lots of effort.
+
+Of course, it's all on purpose. *g* Since it's a doujin game, it's not like the
+games companies put out these days that are geared towards getting users, but
+it's more like the old days where the developer just did whatever he wanted.
+Even if people do end up playing it.
+
+It's easier to express yourself when thinking about things you like. I think
+this is an advantage on the side of doujin, or otherwise free, software. This
+is meant to be kind of like a limited-run commercial work, and I do enjoy
+playing commercial games.
+
+
+
+So, the basic point of this game is to 1cc Normal, which is relatively easy.
+But, for those of you who can't clear the game, or perhaps those of you who
+don't play STG that much, it might be nice to play easy mode.
+
+This time, you get the good ending even if you 1cc Easy, so you can finally get
+a good night's sleep *g*
+
+Different people all have different goals (or limits). I suspect the differences
+are even more striking with respect to STG. I wonder what people have been able
+to clear Gensokyo's EXTRAs in the past? I'm really curious.
+
+I suppose people who have cleared the extra stage on earlier games will have no
+problem with this game. Maybe it's even too easy. (By the way, it seems there
+are a lot of people who have 1cced Normal on their first try in this game...)
+
+I hope that kind of person will continue to aim for a higher level of
+difficulty, and a higher goal. If they do so, they ought to discover this game's
+true form *g*
+
+Fortunately, since it's so easy to distribute replays of PC games, it's also
+possible to enjoy watching replays over the scent of freshly-brewed tea.
+
+Everyone's best form of amusement, and their goals, are all different; each
+person sets their own goals and works toward them. One can always enjoy watching
+the efforts towards their own goals of those who have attained a higher level
+than oneself. Isn't this also a fun thing about shooting games?
+
+(Still, is it too easy? Well, I'm about at my limit ... )
+
+
+
+
+---------
+
+―― Do the sounds of Hourai disturb the sleep of spirits?
+
+By the way, what do you think of the music this time? I was going for songs that
+were intense, emotional, and a little exotic. Well, I guess that's all I ever
+write. It's full of high tempo songs that can tire you out suddenly and don't
+have any sort of healing properties at all. Well, STG music has always been like
+that *g*
+
+I started composing thinking it would be great to have music that had a super
+mature feel to it. I think the music has grown up about a year's worth compared
+to EoSD. I've gotten a year older, and the people who played EoSD have probably
+gotten at least a year older too, so...
+
+Even so, normally I make Western style music that still has some Oriental
+elements in it, but this time I tried to make Oriental music that still somehow
+has Western-feeling elements in it.
+
+Not being able to have things come out the way I want is a sure sign I'm no
+professional ^^;
+
+
+　　Well, it's a blending of Eastern and Western, so...
+
+---------
+
+　　―― That cherry tree would never blossom again
+
+So, PCB. Some of the contents might be hard to follow. None of the terminology
+is specific to the game, so there's no real good explanation of a lot of things
+in the game itself.
+
+Still, if there are any terms you don't understand, you can consult a dictionary
+or look around online, so I don't think there's much of a problem, but due to
+the choices I've made, it may be more of a case of "the people who don't know
+don't know what they don't know".
+
+Particularly, I chose to represent a lot of things (or phenomena) with danmaku;
+since that's a fairly abstract way of doing things, it may be hard to
+understand... (On the other hand, Touhou users probably have very strong
+imaginations, so maybe they understood too much ^^; )
+
+Well, the story itself is very simple, anyone can enjoy it. (Whether they really
+understand the contents is something else.)
+
+
+
+---------
+
+　　―― Danmaku Barrier ~ Border of Shooting Games
+
+It took too long for me to get Youyoumu out. I had lots of support for the demo
+version, so it didn't take as long, but...
+
+The programming is the easiest part. Since there isn't much question of
+aesthetics, the results usually don't differ from my predictions, so everything
+normally goes according to plan. Compared to that, the music and art are... (--;
+
+And that aside, now that I think of it, the alcohol level really piled up a lot,
+too. PCB is about 90% alcohol (well, same as ever). There are scenes where the
+Touhou characters are drinking, but underage drinkers will be punished, since
+there are laws against that sort of thing in Japan these days. Since there are
+no such things in Gensokyo, it's not a problem. (Underage drinking is not
+permitted by law in modern Japan, so I hope my underage users will abstain...)
+
+Since there are no clear laws in that area, you might find it a bit dangerous.
+However, it's also possible to have peace where there are not many laws. (Except
+for the part about youkai eating humans :-b )
+
+
+
+---------
+
+　―― Next time
+
+I want to keep making the same types of work, but I wonder how long the world
+will let me do that. I guess I can only do the same thing over and over. Come to
+think of it, that's exactly right, is what I suppose I have to say (^^; Since I
+intend to keep doing the same thing.
+
+(Well, I think people who have been playing Touhou for a long time realize that,
+but I wonder about those who have only been playing since EoSD...)
+
+Honestly, I wonder if I just want to keep making the same thing over and over,
+replacing the story and game data, and making improvements over time. Maybe I
+could arrive at a new world by creating the same work and not being distracted
+by tomorrow's novelties. You know, more haste, less speed.
+
+Well, in any case, if you don't mind that I hope we'll continue to get along
+well from here on m(__)m
+
+
+
+
+
+
+====================================================================
+2. Music Comments
+====================================================================
+　Sounds are first recognized as songs when they're given a name.
+　The nameless ones might just be coincidental mashes of sound.
+　So, with that in mind, here are a few (extra) comments of mine.
+
+
+　♪1. Phantasms' Dreams　~ Snow or Cherry Petal
+It's the title screen music, so it's solemn.
+Is it snow or cherry blossoms that fall over Gensokyo?
+That's the meaning packed into this song title.
+
+
+　♪2. Paradise　~ Deep Mountain
+"Mukau no kyou".
+In a word, deep in the mountains, away from the village (Laughs)
+
+
+　♪3. Crystallize Silver
+An image of silver snow crystals.
+Definitely not crystals of silver.
+
+
+　♪4. The Fantastic Legend of Tohno
+Places deep in the mountains of Japan make me think of old man Yanagita.
+Is it an academic thing or an occult thing? Well, does it really matter?
+
+
+　♪5. Diao ye zong(withered leaf)
+Burnt orange. More of a fall thing than winter.
+Personally, cats bring to mind images of autumn.
+They don't like dealing with a harsh winter or summer, and even spring's
+freshness doesn't really suit them.
+That sort of image.
+
+
+　♪6. The Dollmaker of Bucharest
+Alice has dolls from many different places.
+I really wanted to write in some clay figures or terra cotta warriors.
+
+
+　♪7. Doll Judgement　~ The girl who plays with people's shapes
+If you throw away a broken doll, say, in the forest, it makes you shiver a
+little.
+That's probably because it's a doll in the shape of a person.
+Even if you find a broken human in the forest, it doesn't make you shiver.
+That's just disposing of a corpse, which is a lot easier to understand than
+disposing of a doll.
+
+
+　♪8. Heavenly Flower Capital
+We don't notice it, but the heavens are full of gardens, cities, castles, and
+birds.
+The truth is, the skies may be completely saturated, and we just don't know
+about it.
+We shouldn't fly passenger planes through the sky so lightly. (← afraid of
+heights)
+
+
+　♪9. Phantom Ensemble ~ Phantom Ensemble
+The phantom ensemble.
+By the way, poltergeists and phantoms as we Japanese think of them are
+a little different. They're the most pedestrian of the foreign spirits.
+They can hold musical performances without using their hands or feet or
+instruments, but they're not theremins.
+And even though they can make sound without instruments, they use them.
+As pointless as that is, it's absolutely wonderful. After all, ghosts themselves
+are pointless in the first place.
+
+
+　♪10. Eastern Mystic Dream　~ Ancient Temple
+An old temple.
+All of a sudden, the atmosphere and pace change with this song.
+This is the song that most directly expresses the feeling of this game, hence
+this title.
+
+
+
+　♪11. Wherein Hiroari Shoots a Strange Bird　~ Till When?
+Needless to say, Hiroari refers to the famous youkai bird hunter Oki no
+Jirouzaemon Hiroari. The image of the song was that mysterious youkai, hence the
+feel of the song.
+"Till When?" is just a pun, pay it no mind (Sweats)
+
+
+　♪12. Ultimate Truth
+Ultimate reality. That is, absolute truth.
+Though, it's not that magnificent of a song...
+
+
+　♪13. Bloom Nobly, Cherry Blossom of Sumizome　~ Border of Life
+It's good to have an easy to understand Japanese title.
+It's a very straightforward name.
+There's nothing more to say.
+Is this, too, the cherry tree's charm...?
+
+
+　♪14. Border of Life The boundary between life and death.
+For proof of life to be possible, there must be the dead.
+So, there is no living thing that won't die. If something isn't
+alive it can't die, and something that can't die isn't alive either.
+I believe the true state of life is this unyielding state of limbo.
+
+
+　♪15. Phantasms' Domination
+Pronounced "yoyo-bakko".
+When they first become youkai, all creatures enter a world where they do as they
+please.
+In this world, even humans, lords of creation that they are, are trifling
+creatures.
+
+
+　♪16. Maiden's Illusionary Funeral　~ Necro-Fantasy Many ways to bury the dead
+have been devised according to different regions, climates, and religions.
+There's cremation, interment, open burial, and now even consecration to space.
+I think it would be fun to play a trick by leaving in my last will and testament
+instructions to perform an "illusionary funeral"
+(please don't)
+
+
+　♪17. Phantasms' Domination　~ Who done it?
+Or, whodunit.
+I don't really know too much about foreign languages, but it seems the proper
+usage is "Who did it?"
+It turns out to be this character who shows up suddenly at the end, which seems
+pretty unreasonable.
+
+
+　♪18. Necrofantasia
+Necro-Fantasia: a fantasia of death.
+It sounds pretty hardcore.
+You can't savor death while you're still alive.
+Death is always a phantasm to the living.
+
+
+　♪19. Dream of a Spring Breeze
+A spring breeze can't help but scatter the cherry blossoms.
+Whether you're asleep or awake, can you find such a breeze unpleasant?
+
+
+　♪20. Sakura Sakura　~ Japanize Dream...
+Among all of our well-known songs, I think Sakura Sakura is the most Japanese-
+style.
+Something's been bothering me, though: is the song called "Sakura Sakura",
+or just "Sakura"? Or is it something else entirely?
+I just can't remember...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Extra Stage Story
+====================================================================
+
+This is the Hakurei Shrine, which lies on the border of Gensokyo.
+Even the cherry blossoms have finally reached their full bloom, out of season.
+The near-daily flower viewings, too, have begun to lose their sense of novelty,
+and are slowing back to normal frequency.
+
+To the extent that this was a normal daily life, or perhaps that it was a futile
+way of life,
+Reimu realized that it was all simply for fun.
+
+                      --------- 
+
+Reimu: "Flower viewings are nice, but..."
+
+Yuyuko: "But?"
+
+Reimu: "There have been more ghosts lately."
+Marisa: "Man, I'm tired of flower viewings and phantom viewings."
+
+Yuyuko: "They're all coming to see the world of the living that they left so
+long ago.
+It's sightseeing, which they don't get to do very often."
+
+Marisa: "Well, it's nice that the shrine finally has so many visitors."
+Reimu: "But nobody's leaving any donations."
+
+Yuyuko: "Phantoms don't believe in the powers of the gods.
+Going to shrines is just like a field trip for them."
+
+Reimu: "Maybe I'd better get to exorcising..."
+
+                      --------- 
+
+This shrine that receives few human visitors had somehow become a popular
+sightseeing spot for the ghosts.
+Around that time, a particularly out-of-place human came to visit the shrine.
+
+
+Sakuya: "So this is where you were, ghost princess."
+Yuyuko: "Who, me? What business might a maid like you have here?"
+Marisa: "With this ghost-infested shrine, humans sure seem outta place."
+
+Reimu: "How rude!"
+
+Sakuya: "While you've been drinking tea in such a hyon place unbothered,
+the rest of us have been flooded over with ghosts from the Netherworld.
+They must be mistaken somehow since they came close to the mansion, so I came
+here looking for you to complain."
+Yuyuko: "I haven't just been sitting around this hyon place and drinking tea.
+I have already requested that the barrier of the Netherworld be repaired."
+Marisa: "Then why're ya lazing around this hyon place?
+You won't be able to get home soon, y'know?"
+
+Reimu: "Who are you calling hyon?"
+
+                      --------- 
+
+Then one more person came seeking the princess of the dead.
+Or rather, not a person, but perhaps one half of a person.
+
+
+Youmu: "Lady Yuyuko!
+Why are you in such a myon place...
+Anyway, something bad happened.
+|note= "Myon-na" is a portmanteau of "hyon-na" (unexpected) and "myou-na"
+(strange).
+
+Reimu: "It sounds like you've been listening to us since before."
+
+Youmu: "??
+Anyway, even though we asked her to mend the border,
+it looks like she's still sleeping."
+
+Yuyuko: "Well, she does sleep all winter.
+But, it seems it's been spring for a while now."
+Youmu: "It hasn't been spring in this world for very long."
+
+Marisa: "Yeah, and it's your fault."
+Yuyuko: "I'll just go visit and wake her up myself.
+This happens every year, doesn't it?"
+
+Human x3: "It's not fine."
+
+Youmu: "But instead, strange people have been coming to the Netherworld.
+
+That person, what was she? A helper? Her familiar?
+Someone like that is going out of control."
+
+Yuyuko: "Well, can't you just cut her down good with your sword?"
+
+Youmu: "What? How absurd.
+There's no way I could draw my sword against someone
+in service to a friend of Milady." 
+
+Reimu: "Then why don't I go teach her a lesson?"
+Sakuya: "Then I will cut her down good."
+Marisa: "Real good."
+
+Yuyuko: "Well then, I'll leave it to all of you."
+Youmu: "Is it really okay?
+Isn't she your friend's servant?"
+Yuyuko: "The servant of a friend is not my friend."
+
+Reimu: "Well, if you're all going to the Netherworld,
+there's no use in me bothering, right?"
+Sakuya: "What are you talking about? I'm too busy for this."
+Marisa: "I don't really care, but I'm not just gonna go in place of you.
+Why don't we solve this with a game of rock-paper-scissors?"
+
+Reimu: "How conventional."
+Sakuya: "Indeed."
+
+Marisa: "Okay, then whoever doesn't cheat has to go."
+
+Reimu: "Sounds good."
+Sakuya: "I'm fine with that."
+
+All 3: "Rock, paper..."
+
+
+                      --------- 
+
+And so, the three humans traversed the boundary between this world and the
+weakened Netherworld.
+They also wound up having to restore order in the Netherworld.
+Even as they set out, the princess of the dead would stay here at this myon
+shrine, or not, doing as she pleased.
+
+Yuyuko: "In any case, Youmu.
+She is a shikigami, not a familiar.
+They are rather similar though."
+
+Youmu: "Why aren't you doing anything about it, Lady Yuyuko?"
+
+Yuyuko: "My, I believe I did leave cleaning the garden up to a certain someone."
+
+Youmu: "Myon!"
+
+
+The ghosts failed to tell the humans that the real danger wasn't the shikigami
+but the melancholy is.
